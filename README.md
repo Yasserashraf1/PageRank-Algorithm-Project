@@ -57,9 +57,9 @@ Example output:
     * page3.html: 0.2236
 
   * PageRank Results from Iteration
-   * page1.html: 0.1928
-   * page2.html: 0.1491
-   * page3.html: 0.2241
+     * page1.html: 0.1928
+     * page2.html: 0.1491
+     * page3.html: 0.2241
 
 ## Conclusion
 This project successfully implements and compares the PageRank algorithm using both sampling and iteration methods. The iterative method converges to an accurate solution, while the sampling method provides a good estimate based on random walks. Both methods capture the relative importance of web pages within the corpus based on their link structure.
